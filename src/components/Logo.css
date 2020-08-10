@@ -1,0 +1,28 @@
+#logo {
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#logo path {
+    opacity: 0;
+}
+
+#logo path.active {
+    animation: logo-animation 2.5s;
+}
+
+@keyframes logo-animation {
+    5% {
+        opacity: 1
+    }
+
+    95% {
+        opacity: 1
+    }
+
+    100% {
+        opacity: 0
+    }
+}

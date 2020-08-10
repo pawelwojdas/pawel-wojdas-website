@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "title": "About",
+            "reference": "about"
+        },
+        {
+            "title": "Skills",
+            "reference": "skills"
+        },
+        {
+            "title": "Projects",
+            "reference": "projects"
+        },
+        {
+            "title": "Contact",
+            "reference": "contact"
+        }
+    ]
+}
