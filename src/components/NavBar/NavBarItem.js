@@ -1,13 +1,16 @@
 import React from 'react';
 import { Link } from 'react-scroll';
+import styles from '../../stylesheets/NavBarItem.module.scss';
 
 
-const NavBarItem = ({ title, reference }) => {
+const NavBarItem = ({ title, reference, hideNavBar }) => {
     return (
         <Link
+            className={styles.item}
             to={reference}
             smooth
-            duration={500}>
+            duration={500}
+            onClick={hideNavBar}>
             {title}
         </Link>
     );

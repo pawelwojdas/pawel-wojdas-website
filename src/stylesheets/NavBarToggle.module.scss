@@ -1,0 +1,40 @@
+.toggle {
+    z-index: 1;
+    display: none;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    .line {
+        width: 35px;
+        height: 4px;
+        background-color: rgb(225, 32, 113);
+        transition: .2s;        
+    } 
+
+
+    .innactive {
+        display: none;
+    }
+
+    .active1 {
+        position: absolute;
+        transform:rotate(-45deg);
+        
+    }   
+    .active2{
+        position: absolute;
+        transform:rotate(45deg);
+        
+    }
+
+
+}
+
+
+@media screen and (max-width: 768px) {
+    .toggle {
+        display: flex;
+    }
+}
