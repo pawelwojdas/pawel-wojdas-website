@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pawel-wojdas-website/static/css/main.bed84e31.chunk.css",
+    "main.js": "/pawel-wojdas-website/static/js/main.05aa6def.chunk.js",
+    "main.js.map": "/pawel-wojdas-website/static/js/main.05aa6def.chunk.js.map",
+    "runtime-main.js": "/pawel-wojdas-website/static/js/runtime-main.cb18b459.js",
+    "runtime-main.js.map": "/pawel-wojdas-website/static/js/runtime-main.cb18b459.js.map",
+    "static/js/2.cee37be1.chunk.js": "/pawel-wojdas-website/static/js/2.cee37be1.chunk.js",
+    "static/js/2.cee37be1.chunk.js.map": "/pawel-wojdas-website/static/js/2.cee37be1.chunk.js.map",
+    "index.html": "/pawel-wojdas-website/index.html",
+    "precache-manifest.e9e57a0a43ab9f14ebabffdd0b746b57.js": "/pawel-wojdas-website/precache-manifest.e9e57a0a43ab9f14ebabffdd0b746b57.js",
+    "service-worker.js": "/pawel-wojdas-website/service-worker.js",
+    "static/css/main.bed84e31.chunk.css.map": "/pawel-wojdas-website/static/css/main.bed84e31.chunk.css.map",
+    "static/js/2.cee37be1.chunk.js.LICENSE.txt": "/pawel-wojdas-website/static/js/2.cee37be1.chunk.js.LICENSE.txt",
+    "static/media/logo.a972cdf3.svg": "/pawel-wojdas-website/static/media/logo.a972cdf3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb18b459.js",
+    "static/js/2.cee37be1.chunk.js",
+    "static/css/main.bed84e31.chunk.css",
+    "static/js/main.05aa6def.chunk.js"
+  ]
+}
